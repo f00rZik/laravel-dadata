@@ -1,6 +1,6 @@
 <?php
 
-namespace Fomvasss\Dadata\Response;
+namespace f00rzik\Dadata\Response;
 
 class Passport extends AbstractResponse
 {

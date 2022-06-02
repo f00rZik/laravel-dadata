@@ -1,6 +1,6 @@
 <?php
 
-namespace Fomvasss\Dadata;
+namespace f00rzik\Dadata;
 
 use Exception;
 use GuzzleHttp\Client;
@@ -12,7 +12,7 @@ use RuntimeException;
 /**
  * Class ClientHint
  *
- * @package \Fomvasss\Dadata
+ * @package \f00rzik\Dadata
  */
 class ClientSuggest
 {
